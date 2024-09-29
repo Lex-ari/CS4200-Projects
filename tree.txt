@@ -1,0 +1,11 @@
+eight_queens.py
+highlights.py
+highlights_2.py
+backtrack.py
+backtrack_2.py
+no_auto.py
+no_auto_2.py
+fix_highlight.py
+fix_highlight_and_performance.py
+fix_highlight_3.py
+confetti.py
